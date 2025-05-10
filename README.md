@@ -1,6 +1,6 @@
 # Site Task Manager (WordPress Plugin)
 
-A lightweight plugin for monitoring resource usage and tracking plugin performance on your WordPress website.
+A lightweight plugin for monitoring resource usage and tracking plugin performance on your WordPress website.<br>
 Developed by Meysam Aliannezhadi
 ## ✅ Features
 
@@ -39,7 +39,7 @@ This plugin is licensed under the GPLv2 or later.
 
 # افزونه مدیریت منابع وردپرس (Site Task Manager)
 
-افزونه‌ای سبک برای بررسی و نظارت بر مصرف منابع سرور (CPU و حافظه) در سایت وردپرسی شما.
+افزونه‌ای سبک برای بررسی و نظارت بر مصرف منابع سرور (CPU و حافظه) در سایت وردپرسی شما.<br>
 توسعه توسط میثم علیان نژادی
 
 ---
